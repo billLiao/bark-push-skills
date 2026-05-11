@@ -1,3 +1,7 @@
+---
+name: bark-push
+description: 推送消息到Bark中，当用户需要推送消息、通知、手机提醒时触发使用
+---
 # Bark 推送技能
 
 ## 概述
